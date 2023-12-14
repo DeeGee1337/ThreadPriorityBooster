@@ -1,8 +1,0 @@
-﻿  Building 'ThreadPrioBooster' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  PriorityBooster.cpp
-  ThreadPrioBooster.vcxproj -> C:\Users\Anon\source\repos\ThreadPrioBooster\x64\Debug\ThreadPrioBooster.sys
-  Done Adding Additional Store
-  Successfully signed: C:\Users\Anon\source\repos\ThreadPrioBooster\x64\Debug\ThreadPrioBooster.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  
